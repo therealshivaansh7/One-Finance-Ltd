@@ -22,7 +22,14 @@ Small businesses in India manage GST, cash flow, loans and market information ac
 - Firebase Authentication code paths (email/password, Google sign-in, phone sign-in, and anonymous sign-in), conditional on Firebase configuration being supplied.
 
 **Integration boundary:** The current HTML includes demo figures and client-side interface logic. It does not contain credentials or a configured backend for live GSTN/NIC e-invoice or E-Way Bill filing, live bank connectivity, real payment processing, or real financial trades. Do not describe those as live integrations unless you separately implement and test them.
+## Project Highlights
 
+- Smart financial management for small businesses
+- Interactive financial dashboard
+- Expense and income tracking
+- Cash-flow monitoring
+- Financial insights and analytics
+- Responsive and user-friendly interface
 
 ## How to run
 
