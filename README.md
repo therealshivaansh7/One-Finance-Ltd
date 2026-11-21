@@ -68,6 +68,26 @@ This is a prototype frontend. It does not itself establish a connection to offic
 
 ## Arthathon 2026
 Prepared as a project submission package. Add your team member details and final deployed URL before submission.
+
 Future Enhancements
 
+- Integration with official GST and banking APIs.
+- Real-time financial data synchronization.
+- Advanced AI-powered financial insights and recommendations.
+- Automated invoice generation and management.
+- Enhanced security with encrypted data storage.
+- Multi-user support with role-based access control.
+- Advanced financial analytics and customizable reports.
+- Mobile application support for better accessibility.
+
+- Target Users
+
+One Finance is designed for:
+
+- Small business owners and entrepreneurs.
+- Startups and independent business operators.
+- Accountants and financial managers.
+- Businesses looking to simplify financial management.
+
+- 
 
