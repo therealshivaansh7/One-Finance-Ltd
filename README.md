@@ -5,6 +5,28 @@ One Finance Ltd is a browser-based small-business finance dashboard concept. It 
 
 This repository contains a static HTML frontend. It is a prototype/demo and should not be represented as a production banking, tax-filing, or regulated financial service.
 
+
+## Problem statement
+
+Small businesses in India manage GST, cash flow, loans and market information across separate tools, which is slow and confusing. One Finance Ltd brings these into one dashboard, with an AI CFO assistant to help owners understand their numbers.
+
+## Features present in the frontend
+
+- Responsive single-page interface with dark/light themes and visual themes.
+- Business health-score and finance dashboard displays.
+- GST calculator and GST/IRN-related interface elements.
+- Loan/EMI and cash-flow planning interface.
+- E-Way Bill and foreign-exchange interface.
+- Market-intelligence and chart/visualization sections.
+- Gemini-powered text assistant, voice assistant, text-to-speech, and image-generation code paths.
+- Firebase Authentication code paths (email/password, Google sign-in, phone sign-in, and anonymous sign-in), conditional on Firebase configuration being supplied.
+
+**Integration boundary:** The current HTML includes demo figures and client-side interface logic. It does not contain credentials or a configured backend for live GSTN/NIC e-invoice or E-Way Bill filing, live bank connectivity, real payment processing, or real financial trades. Do not describe those as live integrations unless you separately implement and test them.
+
+
+## How to run
+
+1. Clone the repo:
 ## Features present in the frontend
 - Responsive single-page interface with dark/light themes and visual themes.
 - Business health-score and finance dashboard displays.
